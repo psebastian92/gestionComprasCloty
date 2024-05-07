@@ -1,3 +1,4 @@
+// PROYECTO PARA GESTIÓN DE COMPRAS
 package sistemaCompras;
 
 import javax.swing.*;

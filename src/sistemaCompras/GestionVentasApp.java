@@ -15,8 +15,6 @@ public class GestionVentasApp extends JFrame {
     private JTextArea productosTextArea;
     private JLabel fechaLabel;
     private double totalIngresos = 0.0;
-
-    // Comienza la app
     
     
     public GestionVentasApp() {

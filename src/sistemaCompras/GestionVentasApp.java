@@ -16,6 +16,9 @@ public class GestionVentasApp extends JFrame {
     private JLabel fechaLabel;
     private double totalIngresos = 0.0;
 
+    // Comienza la app
+    
+    
     public GestionVentasApp() {
         setTitle("Gestión de Ventas");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
